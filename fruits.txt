@@ -7,4 +7,12 @@ banana
 orange
 lemon
 
+
+blueberry
+cherries
+
+
+
+thank you :)
+
 success
